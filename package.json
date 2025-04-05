@@ -1,0 +1,25 @@
+{
+  "name": "react-vite-spa-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "prettier": "@cremshell/prettier-config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cremshell/react-vite-spa-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cremshell/react-vite-spa-starter/issues"
+  },
+  "homepage": "https://github.com/cremshell/react-vite-spa-starter#readme",
+  "devDependencies": {
+    "@cremshell/prettier-config": "^1.0.0",
+    "prettier": "^3.5.3"
+  }
+}
