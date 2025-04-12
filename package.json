@@ -19,7 +19,15 @@
   },
   "homepage": "https://github.com/cremshell/react-vite-spa-starter#readme",
   "devDependencies": {
+    "@cremshell/eslint-config": "^1.0.0",
     "@cremshell/prettier-config": "^1.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.29.1",
+    "@typescript-eslint/parser": "^8.29.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^5.2.0",
     "prettier": "^3.5.3"
   }
 }
