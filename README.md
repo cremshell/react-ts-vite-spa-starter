@@ -1,1 +1,1 @@
-# react-vite-spa-starter
+# @cremshell/react-ts-vite-spa-starter

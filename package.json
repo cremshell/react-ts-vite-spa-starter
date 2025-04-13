@@ -1,5 +1,5 @@
 {
-  "name": "@cremshell/react-vite-spa-starter",
+  "name": "@cremshell/react-ts-vite-spa-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,20 +10,15 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cremshell/react-vite-spa-starter.git"
-  },
   "keywords": [],
-  "author": "",
+  "author": "cremshell",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cremshell/react-vite-spa-starter/issues"
-  },
-  "homepage": "https://github.com/cremshell/react-vite-spa-starter#readme",
   "devDependencies": {
     "@cremshell/eslint-config": "^1.0.0",
     "@cremshell/prettier-config": "^1.0.2",
+    "@cremshell/tsconfig": "^1.0.0",
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.2",
     "@typescript-eslint/eslint-plugin": "^8.29.1",
     "@typescript-eslint/parser": "^8.29.1",
     "eslint": "^8.57.1",
@@ -34,5 +29,10 @@
     "prettier": "^3.5.3",
     "typescript": "^5.8.3",
     "vite": "^6.2.6"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.115.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
